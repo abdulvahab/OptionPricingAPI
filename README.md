@@ -6,7 +6,7 @@ The formula which we use to calculate options price is BlackScholesModel.
 ## Black Scholes Model
 The Black Scholes model is considered to be one of the best ways of determining fair prices of options. It requires five variables: the strike price of an option, the current stock price, the time to expiration, the risk-free rate, and the volatility.
                     
-                    ![bsm](https://github.com/abdulvahab/OptionPricingAPI/blob/11549074be101ee6c12a38ce0cd2d98d0545e4c6/img.png)
+                    ![bsm](img.jpeg)
 
 Black Scholes Formula
 C = call option price

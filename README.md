@@ -32,7 +32,7 @@ Run following command from terminal
 ```sh run_in_docker.sh```
 
 # How to Run
-## In Docker Container
+## On Local Computer
 **Requirement**: python >= 3.7.*
 
 Run following command from terminal
